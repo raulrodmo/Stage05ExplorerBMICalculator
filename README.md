@@ -13,7 +13,7 @@ Repositório do desafio extra do stage 05 da turma 09 do explorer, o objetivo er
 <br>
 
 <p align="center">
-  <img alt="Formulário de mentoria" src=".github/preview.jpg" width="100%">
+  <img src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto consiste em uma calculadora de IMC onde o usuário deverá inserir seu peso (kg) e altura (cm) e ao clicar sob o botão "Calcular IMC" seja exibido o seu índice de massa corporal(IMC).
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://bmicalculator-raulrodmo.netlify.app/)
 
 ## 🔖 Layout
 
